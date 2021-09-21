@@ -1,0 +1,14 @@
+.tabla_seccion tbody tr:hover{
+	background-color: black;
+	color: white;
+	cursor:pointer;
+}
+.tab_adicionales{
+	width: 100%;
+	background-color: black;
+	color: white;
+	cursor:pointer;
+	font-size: 20px;
+	font-weight: bold;
+	padding:10px;
+}
